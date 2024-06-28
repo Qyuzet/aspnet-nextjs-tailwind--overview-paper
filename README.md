@@ -103,8 +103,8 @@ The study concludes with an assessment of the role of digitalization in business
 
 ## Acknowledgements
 
-This project was completed as part of the graduation requirements for the 2-Year Professional Program in Information Technology at CEP-CCIT, Fakultas Teknik, Universitas Indonesia. Special thanks to Listyo Edi Prabowo, S.T.,M.T. for their guidance and support throughout this project.
+This project was completed as part of the graduation requirements for the 2-year Professional Program in Information Technology at CEP-CCIT, Fakultas Teknik, Universitas Indonesia. Thanks to Listyo Edi Prabowo, S.T., M.T. for his guidance and support throughout this project.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. Please look at the [LICENSE](LICENSE) file for details.
