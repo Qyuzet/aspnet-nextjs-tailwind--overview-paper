@@ -103,7 +103,7 @@ The study concludes with an assessment of the role of digitalization in business
 
 ## Acknowledgements
 
-This project was completed as part of the graduation requirements for the 2-Year Professional Program in Information Technology at CEP-CCIT, Fakultas Teknik, Universitas Indonesia. Special thanks to [Your Mentor's Name] for their guidance and support throughout this project.
+This project was completed as part of the graduation requirements for the 2-Year Professional Program in Information Technology at CEP-CCIT, Fakultas Teknik, Universitas Indonesia. Special thanks to Listyo Edi Prabowo, S.T.,M.T. for their guidance and support throughout this project.
 
 ## License
 
