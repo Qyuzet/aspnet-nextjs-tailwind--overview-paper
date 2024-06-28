@@ -2,6 +2,9 @@
 
 This project explores modern web development practices using Next.js and Tailwind CSS, alongside an academic overview of ASP.NET. The study is part of the graduation requirements for the 2-Year Professional Program in Information Technology at CEP-CCIT, Fakultas Teknik, Universitas Indonesia.
 
+![image](https://github.com/Qyuzet/ASP.NET-NextJs-Tailwind-Overview-Paper/assets/93258081/f9c12c17-067d-4cb7-a30f-b3cb14d8e1bc)
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -24,6 +27,10 @@ This project explores modern web development practices using Next.js and Tailwin
 ## Project Overview
 
 This project investigates the impact of digital transformation on enhancing scalability and accelerating business operations to support economic growth. It evaluates the effectiveness of Next.js and Tailwind CSS in modern web development and compares these frameworks with ASP.NET, especially in the context of large-scale enterprise applications.
+
+![image](https://github.com/Qyuzet/ASP.NET-NextJs-Tailwind-Overview-Paper/assets/93258081/a04a26ef-43ed-4e07-850d-deb646a5d921)
+
+![image](https://github.com/Qyuzet/ASP.NET-NextJs-Tailwind-Overview-Paper/assets/93258081/09482705-764f-432c-86c6-619812935210)
 
 ## Objectives
 
@@ -94,6 +101,11 @@ This project investigates the impact of digital transformation on enhancing scal
 ## Conclusion
 
 The study concludes with an assessment of the role of digitalization in business growth and the importance of selecting appropriate web development technologies based on business context and project complexity. Suggestions for future research and practical applications are provided.
+
+![image](https://github.com/Qyuzet/ASP.NET-NextJs-Tailwind-Overview-Paper/assets/93258081/e6498dbc-8bbe-441f-aa09-fbc14775b346)
+
+![image](https://github.com/Qyuzet/ASP.NET-NextJs-Tailwind-Overview-Paper/assets/93258081/146deea8-9f7d-4345-9465-86e6032d7603)
+
 
 ## Future Work
 
