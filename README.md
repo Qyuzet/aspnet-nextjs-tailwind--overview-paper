@@ -26,7 +26,7 @@ This project explores modern web development practices using Next.js and Tailwin
 
 ## Project Overview
 
-This project investigates the impact of digital transformation on enhancing scalability and accelerating business operations to support economic growth. It evaluates the effectiveness of Next.js and Tailwind CSS in modern web development and compares these frameworks with ASP.NET, especially in the context of large-scale enterprise applications.
+This project investigates the impact of digital transformation on enhancing scalability and accelerating business operations to support economic growth. It evaluates the effectiveness of Next.js and Tailwind CSS in modern web development and compares these frameworks with ASP.NET, especially in the context of large-scale enterprise applications..
 
 ![image](https://github.com/Qyuzet/ASP.NET-NextJs-Tailwind-Overview-Paper/assets/93258081/a04a26ef-43ed-4e07-850d-deb646a5d921)
 
