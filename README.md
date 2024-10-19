@@ -1,4 +1,4 @@
-# Practical Approaches with Next.js & Tailwind CSS: Exploring Modern Web Development Trends
+# Practical Approaches with Next.js & Tailwind CSS: Exploring Modern Web Development Trends.
 
 This project explores modern web development practices using Next.js and Tailwind CSS, alongside an academic overview of ASP.NET. The study is part of the graduation requirements for the 2-Year Professional Program in Information Technology at CEP-CCIT, Fakultas Teknik, Universitas Indonesia..
 
